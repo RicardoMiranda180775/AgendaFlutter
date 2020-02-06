@@ -1,15 +1,16 @@
-# agenda_contatos
+# Agenda de Contatos
 
-A new Flutter application.
+Agenda de contatos desenvolvido em Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+O App é uma agenda de contatos, os dados são persistidos em sqflite e contem as seguintes funcionalidade:
 
-A few resources to get you started if this is your first Flutter project:
+- Utilização de Material Design
+- Criação de Lista de contatos
+- Integração com Camera e telefone
+- Navegação entre telas
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
